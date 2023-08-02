@@ -1,5 +1,5 @@
 {
-  "name": "default-rc-proj",
+  "name": "cesium-map-rc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
