@@ -1,0 +1,17 @@
+.cesium-test-page-wrap {
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+    .sidebar {
+        width: 200px;
+        height: 100%;
+        background-color: aquamarine;
+    }
+
+    .contents {
+        width: calc(100% - 200px);
+        height: 100%;
+        background-color: beige;
+    }
+}
